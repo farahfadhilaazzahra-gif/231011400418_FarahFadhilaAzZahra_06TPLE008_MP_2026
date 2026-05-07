@@ -47,3 +47,9 @@ Selain itu, icon digunakan untuk membantu pengguna memahami informasi dengan leb
 Penggunaan ListView juga membantu pengguna melakukan scroll apabila jumlah workshop bertambah banyak sehingga tampilan tetap nyaman digunakan pada berbagai ukuran layar.
 
 ---
+
+## Tampilan Aplikasi
+
+![Preview App](preview.png)
+
+---
